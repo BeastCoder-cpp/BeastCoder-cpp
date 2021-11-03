@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushant Shinde</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gaurav Shinde</h1>
+<h3 align="center">A passionate Coder</h3>
 <!--
 **BeastCoder-cpp/BeastCoder-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
